@@ -6,7 +6,7 @@ Desarrollar las competencias teóricas y prácticas necesarias para comprender, 
 
 ## Descripción general
 
-La asignatura aborda la visión por computadora 3D desde sus fundamentos geométricos hasta los modelos de aprendizaje profundo del estado del arte. Comprende la estimación de profundidad, el aprendizaje sobre nubes de puntos y volúmenes, la reconstrucción 3D, la percepción espacial aplicada a la robótica, el renderizado neural, el modelado de personas y la generación de contenido 3D. El desarrollo de cada sesión integra contenidos teóricos con actividades prácticas de laboratorio. La asignatura culmina con un proyecto final aplicado a un problema definido por el estudiante.
+La asignatura aborda la visión por computadora 3D desde sus fundamentos geométricos hasta los modelos de aprendizaje profundo del estado del arte. Comprende la estimación de profundidad, el aprendizaje sobre nubes de puntos y volúmenes, la reconstrucción 3D, la percepción espacial aplicada a la robótica, el renderizado neural, el modelado de personas y la generación de contenido 3D. El desarrollo de cada sesión integra contenidos teóricos con actividades prácticas.
 
 ## Contenido
 
